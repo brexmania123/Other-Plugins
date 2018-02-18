@@ -3,7 +3,7 @@ main: LDX\PeacefulSpawn\Main
 version: 2.5
 api:
  - 3.0.0
- - 3.0.0-ALPHA7
+ - 3.0.0-ALPHA11
 load: POSTWORLD
 author: "LDX"
 website: "https://github.com/LDX-MCPE/PeacefulSpawn"
